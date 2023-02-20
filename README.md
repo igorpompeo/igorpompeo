@@ -22,7 +22,7 @@ Below I will let some informations about me.
   <img align="center" alt="Igor-DevOps" height="30" width="100" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 </div>
   
-![Snake animation](https://github.com/igorpompeo/igorpompeo/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/igorpompeo/igorpompeo/output/github-contribution-grid-snake.svg
    
 ## Traduzido em pt-BR
 ### Olá meu nome é Igor Pompeo, sou brasileiro morando no Brasil atualmente. Tenho 32 anos.👋
