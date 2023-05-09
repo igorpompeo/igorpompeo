@@ -11,7 +11,7 @@ Below I will let some informations about me.
   <a href="https://github.com/igorpompeo">
   <img height = 200em src="https://github-readme-stats.vercel.app/api?username=igorpompeo&count_private=true&show_icons=true&theme=onedark"/>
   <img height = 200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpompeo&layout=compact&langs_count=16&theme=onedark"/>
-</div>
+</div></br>
 <div id="icons">
   <img align="center" alt="Igor-Py" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="Igor-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
