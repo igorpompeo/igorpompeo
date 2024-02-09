@@ -1,12 +1,3 @@
-### Hi there my name is Igor Pompeo, I'm brazilian living in Brazil currently. I'm 32 years old.👋
-This is my personal GitHub pages, I used to upload my studies and all that I created in my job.
-Little things that I created to automatized my work or some steps in my rotine.
-Below I will let some informations about me.
-
-- 🔭 I’m currently working on IBM Brasil as a Release Manager, using Azure DevOps and BitBucekt!
-- 🌱 I’m currently learning JS, Python and JAVA.
-- 😄 Pronouns: He / him;
-
 <div id="temas">
   <a href="https://github.com/igorpompeo">
   <img height = 200em src="https://github-readme-stats.vercel.app/api?username=igorpompeo&count_private=true&show_icons=true&theme=onedark"/>
@@ -23,6 +14,15 @@ Below I will let some informations about me.
 </div>
   
 ![](https://raw.githubusercontent.com/igorpompeo/igorpompeo/output/github-contribution-grid-snake.svg)
+
+### Hi there my name is Igor Pompeo, I'm brazilian living in Brazil currently. I'm 32 years old.👋
+This is my personal GitHub pages, I used to upload my studies and all that I created in my job.
+Little things that I created to automatized my work or some steps in my rotine.
+Below I will let some informations about me.
+
+- 🔭 I’m currently working on IBM Brasil as a Release Manager, using Azure DevOps and BitBucekt!
+- 🌱 I’m currently learning JS, Python and JAVA.
+- 😄 Pronouns: He / him;
    
 ## Traduzido em pt-BR
 ### Olá meu nome é Igor Pompeo, sou brasileiro morando no Brasil atualmente. Tenho 32 anos.👋
